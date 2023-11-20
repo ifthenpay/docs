@@ -36,11 +36,12 @@ api
 |-- petstore
 ```
 
-2. Copy any existing index.html from another api in this project into the newly created folder.
+2. Copy any existing index.html and api_main.js from another api in this project into the newly created folder.
 ```
 api
 |-- petstore
 	|--index.html
+	|--api_main.js
 ```
 
 3. (optional) in index.html you can edit the **hideAllTry** and **pathArray** variables in order to:
@@ -67,9 +68,10 @@ api
 api
 |-- petstore
 	|--index.html
+	|--api_main.js
 	|--openapi.yaml
 ```
-![Alt text](assets/apidocumentation.png)
+![Api documentation](assets/apidocumentation.png)
 
 **Note:** you may also use json format, but you must change the extension of the file loaded at index.html `data-url="openapi.yaml"` to `data-url="openapi.json"`
 
