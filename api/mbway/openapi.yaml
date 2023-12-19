@@ -1,6 +1,6 @@
 openapi: 3.0.3
 info:
-  title: Swagger Petstore - OpenAPI 3.0
+  title: Swagger MB WAY - OpenAPI 3.0
   description: |-
     This is a sample Pet Store Server based on the OpenAPI 3.0 specification.  You can find out more about
     Swagger at [https://swagger.io](https://swagger.io). In the third iteration of the pet store, we've switched to the design first approach!
@@ -22,7 +22,7 @@ info:
 servers:
   - url: https://petstore3.swagger.io/api/v3
 tags:
-  - name: pet
+  - name: MB WAY
     description: Everything about your Pets
     externalDocs:
       description: Find out more
