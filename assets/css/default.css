@@ -235,7 +235,7 @@ div.CodeMirror span.CodeMirror-nonmatchingbracket { color: rgb(255, 34, 34); }
 :root {  
   --bg-color: #131313;  
   --bg-color2: #0d1117;  
-  --side-bar-bg-color: #161b22;
+  --side-bar-bg-color: #0c0d0f;
   --control-text-color: #e6ecf1;
   --primary-color: rgb(34, 137, 255);
   --primary-btn-border-color: #3884ff;
