@@ -81,3 +81,7 @@ If you cannot export the api documentation directly from your project, then you 
 </br>
 </br>
 ![saveyaml](assets/saveyaml.png)
+</br>
+
+Use the yaml example in the _dev/openapi_examples folder, it has a basic explanation of what it does.
+To consult the documentation for openapi go to [Swagger specification](https://swagger.io/specification/)
